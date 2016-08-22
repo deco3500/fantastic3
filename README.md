@@ -1,10 +1,12 @@
 # Fantastic3
 
-Introduction: What is your project and what dilemma does it aim to address.
+## Introduction
+What is your project and what dilemma does it aim to address.
 Problem Space
 Solution
 
-Concept: outline the idea and the rationale behind it. Define the project aims and audience and
+## Concept
+outline the idea and the rationale behind it. Define the project aims and audience and
 identify how your idea is different from / improves upon other current offerings.
 
 ## Team
