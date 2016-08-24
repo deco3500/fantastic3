@@ -5,6 +5,13 @@ Nowadays we are able to access national and international news quickly and easy,
 care more about their regions’ news. For example traffic, crime, emergency, new local policy, shops discount, etc. Abviously we cannot easily get the
 local news all together comparing to national and international.
 
+What is the journalistic problem? 
+Bias, hard to come into new companies, if you're new it is hard to get in
+No good resources, need the people who gererate the news, connection to gumtree for advertisement, excisting local groups on Facebook to get the users,
+reward system you get
+specific community as a target consumer
+
+
 What is your project and what dilemma does it aim to address.
 Problem Space
 Solution
