@@ -1,11 +1,18 @@
-# Fantastic3
+# Fantastic4
 
 ## Introduction
+Nowadays we are able to access national and international news quickly and easy, however statistics show that people who read news 
+care more about their regions’ news. For example traffic, crime, emergency, new local policy, shops discount, etc. Abviously we cannot easily get the
+local news all together comparing to national and international.
+
 What is your project and what dilemma does it aim to address.
 Problem Space
 Solution
 
 ## Concept
+App - local news, beacons
+journalistic criteria: you need 
+
 outline the idea and the rationale behind it. Define the project aims and audience and
 identify how your idea is different from / improves upon other current offerings.
 
@@ -19,7 +26,10 @@ the members and their course code. Identify:
 - How will the team handle poor performance and resolve conflicts.
 
 ## Communications
-Where and when will your team meet and how will you all communicate?1
+The team will communicate via a private slack channel. In addition, we will have a weekly group meeting on DAY [FIXME]. Our files will be stored on GitHub
+so every group member has the access 
+
+Where and when will your team meet and how will you all communicate?
 Where will files be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate
 communication and / or file sharing?
