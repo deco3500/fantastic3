@@ -47,6 +47,14 @@ Identify the key tasks that need to be completed and when. Identify:
 - Key deliverables for each phase (Milestones) ;
 - Resources - equipment or other tools/people you might need.
 
+# Milestones
+
+<p align="center">
+    <img src="art/milestones.png" alt="Newzy Milestones"/>
+</p>
+
+# Resources
+
 Project Phase  | Resources
 ------------- | -------------
 Requirements Gathering and Analysis  | Computer, choice of tools and APIs, installation of the tools, group meetings to be on the same page, documentation, screenshots and/or prototypes
