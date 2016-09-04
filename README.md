@@ -24,27 +24,28 @@ outline the idea and the rationale behind it. Define the project aims and audien
 identify how your idea is different from / improves upon other current offerings.
 
 ## Team
-Who is on your team, what are their responsibilities, and how will you work together? List all
-the members and their course code. Identify:
+
 Our Team name is Fantastic Four which contains four members:
 Fan Feng - DECO3500 
 Dan Lee - DECO3500
 Fatimah Almathami - DECO7350
 Patrick Bartler - DECO7350
-- Who will lead the team and manage the project;
+
+Who will lead the team and manage the project;
 As we decided on our first group meeting, Dan Lee will be the team leader and manage the project we are going to build throughout the semester. 
-- Who is responsible for logistics e.g. equipment, meetings, transport, etc;
+
+who is responsible for logistics e.g. equipment, meetings, transport, etc;
 NAME[FIXME] is in charge of logistics for example in purchasing and keeping equipments, organising meetings and recording minutes.
-- Who fills key roles, e.g. back end, front end, content, design;
+
+Who fills key roles, e.g. back end, front end, content, design;
 Back end - Patrick Bartler 
 Front end - Fan Feng
 Design - Fatimah Almathami 
-- How will decisions be made;
 
+How will decisions be made;
 Decisions are to be made by all team members’ consent that we all agree to the decision.  By achieving the team consent, we will work on pros and cons for all decisions and figure out  whether the decision is going to be positive for our project.  When consent across the whole team is not the case, a private vote is getting involved and we will make the decision according to the majority of the vote result.  In other case, if the vote fails such as we have the even vote result, the team leader will make the final decision for the team.  Team members must support the decisions made by the decision making processes rightfully.  
 
-- How will the team handle poor performance and resolve conflicts.
-
+How will the team handle poor performance and resolve conflicts.
 When a team member has poor performance committing the work divided or assigned, and other team members recognised,  we will manage to handle the poor performance in three steps: Identify the problem, confront poor performance and redirect the behaviour to improve performance.  
 
 When a recognisable poor performance is appeared from a team member, the rest team will have discussion together in identifying the reasons the team member is underperforming, for example the works/tasks assigned to him/her are overloaded, can not match his/her skills, or the time is to short for the team member to finish.  We move to the next step when the problem is identified,  For the best solutions and not making the underperforming team member embarrassed,  immediate and private talk is needed when confronting the poor performance, also we will never confront in anger.  Evidence and data will be brought to the talk to prove how important the team member’s poor performance is and how much it will affect the team performance and project progress and quality.  In the end, we may need to redirect the the tasks accordingly to improve the team member’s poor performance.
