@@ -63,8 +63,6 @@ If the poor performance or conflict is still unsolved by the processes, we will 
 
 
 ## Communications
-The team will communicate via a private slack channel. In addition, we will have a weekly group meeting on DAY [FIXME]. Our files will be stored on GitHub
-so every group member has the access 
 
 Where and when will your team meet and how will you all communicate?
 Where will files be stored and shared? What are the file naming conventions?
