@@ -47,6 +47,17 @@ Identify the key tasks that need to be completed and when. Identify:
 - Key deliverables for each phase (Milestones) ;
 - Resources - equipment or other tools/people you might need.
 
+Project Phase  | Resources
+------------- | -------------
+Requirements Gathering and Analysis  | Computer, choice of tools and APIs, installation of the tools, group meetings to be on the same page, documentation, screenshots and/or prototypes
+Design Phase  | Computer, room for meetings, design prototypes, design software, design requirements, access to pictures, design screenshots, documentation
+Development   | Computer, room for meetings, installed tools, API's, costumer to test the product and iterate, webserver, smartphone, documentation 
+Testing	      | Computer, room for meetings, costumer to test the product, survey
+Final changes | Computer, installed tools, API's, different designs
+Presentation/Documentation | PowerPoint presentation, clicker, room to practice the presentation, 
+
 ## Tags
 Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
 awareness, Collaboration, CSCW) and 2 keywords related to journalism and News (e.g. Citizen, Journalists, ...).
+
+#context-awareness, #context-based, #user's-environment, #interaction, #events, #local-news
