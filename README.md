@@ -1,4 +1,4 @@
-﻿# Fantastic4 - Project Newzy
+﻿# Fantastic4 - Project *Newzy - News near YOU!*
 
 ## Introduction
 Nowadays we are able to access national and international news quickly and easy, however statistics show that people who read news 
