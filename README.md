@@ -93,7 +93,7 @@ Each phase we have key deliverables depending on the week (see Milestones). We h
 ### Milestones
 
 <p align="center">
-    <img src="art/milestones.png" alt="Newzy Milestones"/>
+    <img src="art/milestones1.png" alt="Newzy Milestones"/>
 </p>
 
 ### Resources
