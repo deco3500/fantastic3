@@ -97,6 +97,15 @@ In order to keep track of the project progress, the team leader will track the i
     <img src="art/milestones1.png" alt="Newzy Milestones"/>
 </p>
 
+Project Phase  | Deliverables
+------------- | -------------
+Requirements Gathering and Analysis | Every group member is on the same page, requirements such as tools are documented, work will be devided
+Design  | First paper designs, interface mockup
+Development | Basic Android application including API's, Designs, first draft of the prototype, iterations of the prototype
+Testing | Feedback from users, therefore a set of users is required
+Final Changes | completed user testing
+Presentation/Documentation | Fully developed prototype including feedback of the users, presentation, promotional video
+
 ### Resources
 
 Project Phase  | Resources
@@ -104,12 +113,14 @@ Project Phase  | Resources
 Requirements Gathering and Analysis  | Computer, choice of tools and APIs, installation of the tools, group meetings to be on the same page, documentation, screenshots and/or prototypes
 Design 	      | Computer, room for meetings, design prototypes, design software, design requirements, access to pictures, design screenshots, documentation
 Development   | Computer, room for meetings, installed tools, API's, costumer to test the product and iterate, webserver, smartphone, documentation 
-Testing	      | Computer, room for meetings, costumer to test the product, survey
+Testing	      | Computer, room for meetings, costumer to test the product, online survey 
 Final changes | Computer, installed tools, API's, different designs
 Presentation/Documentation | PowerPoint presentation, clicker, room to practice the presentation, printer
 
 ## Tags
-Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
-awareness, Collaboration, CSCW) and 2 keywords related to journalism and News (e.g. Citizen, Journalists, ...).
 
-*#context-awareness*, *#portability*, *#user's-environment*, *#social-interaction*, *#individuality*, *#events*, *#local-news*
+### 5 Key concepts from social and mobile lectures
+*#context-awareness*, *#portability*, *#user's-environment*, *#social-interaction*, *#individuality*
+
+### 2 Keywords related to journalism and News
+*#relevancy*, *#local-news*
