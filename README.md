@@ -14,7 +14,7 @@ Our team of four has decided to undertake a project which would **address these 
 The application would use several APIs including Google Awareness, CMMotionActivity and HealthKit to recognise information such as a person’s location, location type, nearby beacons, current activity, etc. The app would then compare that information against a database of events and suggest public events that are relevant to their activity history. For example, if the app recognised that a person has gone for a 10km run recently, the app would invite the user to an upcoming 10km fun run. The app would integrate with Facebook so that users can ‘click attending’ and invite their friends to attend. 
 
 <p align="center">
-    <img src="art/context.png" alt="Newzy Milestones"/>
+    <img src="art/context1.png" alt="Newzy Milestones"/>
 </p>
 
 While personal assistant applications such as Google Now and Siri use similar activity information to assist a user through a range of activities such as estimating driving times to work and home, providing weather updates, generating activity summaries (walking/cycling),etc. Our application would be **unique** and **innovative** in the fact that it generates a database of public events from a number of different sources (e.g. city council events, university events, sponsored events, etc.), makes suggestions based on recognised activities and integrates with Facebook to allow users to invite friends to attend – this functionality does not exist in any personal assistant application or other similar form. We believe that the app would promote users to be more social and outdoorsy, and promote people to leave the comfort of their routine. 
