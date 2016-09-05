@@ -1,4 +1,4 @@
-# Fantastic4
+﻿# Fantastic4
 
 ## Introduction
 Nowadays we are able to access national and international news quickly and easy, however statistics show that people who read news 
@@ -26,10 +26,10 @@ identify how your idea is different from / improves upon other current offerings
 ## Team
 
 Our Team name is Fantastic Four which contains four members:
-Fan Feng - DECO3500 
-Dan Lee - DECO3500
-Fatimah Almathami - DECO7350
-Patrick Bartler - DECO7350
+* Fan Feng - DECO3500 
+* Dan Lee - DECO3500
+* Fatimah Almathami - DECO7350
+* Patrick Bartler - DECO7350
 
 Who will lead the team and manage the project;
 As we decided on our first group meeting, Dan Lee will be the team leader and manage the project we are going to build throughout the semester. 
@@ -38,9 +38,9 @@ who is responsible for logistics e.g. equipment, meetings, transport, etc;
 NAME[FIXME] is in charge of logistics for example in purchasing and keeping equipments, organising meetings and recording minutes.
 
 Who fills key roles, e.g. back end, front end, content, design;
-Back end - Patrick Bartler 
-Front end - Fan Feng
-Design - Fatimah Almathami 
+* Back end - Patrick Bartler 
+* Front end - Fan Feng
+* Design - Fatimah Almathami 
 
 How will decisions be made;
 Decisions are to be made by all team members’ consent that we all agree to the decision.  By achieving the team consent, we will work on pros and cons for all decisions and figure out  whether the decision is going to be positive for our project.  When consent across the whole team is not the case, a private vote is getting involved and we will make the decision according to the majority of the vote result.  In other case, if the vote fails such as we have the even vote result, the team leader will make the final decision for the team.  Team members must support the decisions made by the decision making processes rightfully.  
@@ -69,15 +69,15 @@ Where will files be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate
 communication and / or file sharing?
 
-We have a weekly group meeting on Tuesday at Room 207 ITEE Student Learning Center, Building 78 UQ, in addition, we will have an online meeting through Skype when necessary, for example if the team is not able to meet at the University and need to have a discussion. The team will communicate through a private slack channel and a Facebook group for general communications.  Phone call is needed for the urgent contact. 
+We have a weekly group meeting on Tuesday at Room 207 ITEE Student Learning Center, Building 78 UQ, in addition, we will have an online meeting through Skype when necessary, for example if the team is not able to meet at the university and need to have a discussion. The team will communicate through a private slack channel and a Facebook group for general communications.  Phone call is needed for the urgent contact. 
 
 Our files will be stored on GitHub so every group member has the access, also our team has a Google Drive mainly will store our meeting minutes and documents.  
 
 The files will be named in accordance with the file naming conventions that we want the files named in short, but meaningful, consistently and logically.  For example for meeting minutes: “m30-08” for weekly meeting and “om0109” for online meeting, so it is an abbreviation of the meeting form and the date of the meeting in DDMM style.
 
-The social platforms our team has adopted are Slack and Facebook.  For the reason we choose Slack is that we have a private team channel under the DECO3500 course chanel, so when using Slack as the tool communicating team members, we can also easily to switch channels to get the course updates and announcements, and ask questions to peers or tutors.   
+The social platforms our team has adopted are Slack and Facebook. For the reason we choose Slack is that we have a private team channel under the DECO3500 course chanel, so when using Slack as the tool communicating team members, we can also easily to switch channels to get the course updates and announcements, and ask questions to peers or tutors.   
 
-Facebook is another social platform we adopted.  As one of the most popular social platforms in the world, all of our team members use Facebook on different devices and the notifications are most likely turned on at all the time, so we can make sure the messages sent are more likely to be seen to other team members.  In addition, Facebook has the function that detects which team member has seen the messages and posts, so we are able to know if all the members are informed by the certain updates, which is very important.  Different to Slack, Facebook can make a post within a group so other members can like and comment under the post, which is more efficient to have a question and answer conversation than using Slack.     
+Facebook is another social platform we adopted. As one of the most popular social platforms in the world, all of our team members use Facebook on different devices and the notifications are most likely turned on at all the time, so we can make sure the messages sent are more likely to be seen to other team members.  In addition, Facebook has the function that detects which team member has seen the messages and posts, so we are able to know if all the members are informed by the certain updates, which is very important.  Different to Slack, Facebook can make a post within a group so other members can like and comment under the post, which is more efficient to have a question and answer conversation than using Slack.     
 
 Both Slack and Facebook are convenient to post and view web links and files such as pdf and images.  
 
