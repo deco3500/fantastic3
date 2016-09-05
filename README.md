@@ -3,7 +3,6 @@
 ## Introduction
 <div style="float: right">
   <img src="art/Newzy_logo.jpg" alt="Newzy Logo" width="150" height="150"/>
-</div>
 
 Nowadays we are able to access national and international news quickly and easy, however statistics show that people who read news 
 care more about their regions’ news. For example traffic, crime, emergency, new local policy, shops discount, etc. Abviously we cannot easily get the
@@ -19,6 +18,10 @@ specific community as a target consumer
 What is your project and what dilemma does it aim to address.
 Problem Space
 Solution
+
+</div>
+
+
 
 ## Concept
 App - local news, beacons
