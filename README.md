@@ -3,32 +3,17 @@
 ## Introduction
 <div style="float: right">
   <img src="art/Newzy_logo.jpg" alt="Newzy Logo" width="150" height="150"/>
-
-Nowadays we are able to access national and international news quickly and easy, however statistics show that people who read news 
-care more about their regions’ news. For example traffic, crime, emergency, new local policy, shops discount, etc. Abviously we cannot easily get the
-local news all together comparing to national and international.
-
-What is the journalistic problem? 
-Bias, hard to come into new companies, if you're new it is hard to get in
-No good resources, need the people who gererate the news, connection to gumtree for advertisement, excisting local groups on Facebook to get the users,
-reward system you get
-specific community as a target consumer
-
-
-What is your project and what dilemma does it aim to address.
-Problem Space
-Solution
-
 </div>
+
+Engagement and relevancy are two of the biggest issues with news today. The emergence of social media has meant that audiences are adopting more news networks and people’s social activity is becoming increasingly fragmented – as a result, engagement of posts over Facebook and Twitter has decreased by 50.7% over the past two years.
+Our team of four has decided to undertake a project which would address these two problems. Our team will be developing a smartphone application that explores the idea that news and events are always relevant to a person’s life. 
 
 
 
 ## Concept
-App - local news, beacons
-journalistic criteria: you need 
-
-outline the idea and the rationale behind it. Define the project aims and audience and
-identify how your idea is different from / improves upon other current offerings.
+Newzy is a smartphone application that personalises event invitations to the context of a person’s life. The app would gain information about a person’s smartphone usage information and use it to suggest public events for the user to attend – after the development of this stage of the prototype, we would also like to explore how other forms of news can be delivered to a user based on the context activities.
+The application would use several APIs including Google Awareness, CMMotionActivity and HealthKit to recognise information such as a person’s location, location type, nearby beacons, current activity, etc. The app would then compare that information against a database of events and suggest public events that are relevant to their activity history. For example, if the app recognised that a person has gone for a 10km run recently, the app would invite the user to an upcoming 10km fun run. The app would integrate with Facebook so that users can ‘click attending’ and invite their friends to attend. 
+The app would promote users to be more social and outdoorsy, and to leave the comfort of their routine.
 
 ## Team
 
