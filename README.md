@@ -112,4 +112,4 @@ Presentation/Documentation | PowerPoint presentation, clicker, room to practice 
 Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
 awareness, Collaboration, CSCW) and 2 keywords related to journalism and News (e.g. Citizen, Journalists, ...).
 
-**#context-awareness**, **#context-based**, **#user's-environment**, **#interaction**, **#events**, **#local-news**
+*#context-awareness*, *#portability*, *#user's-environment*, *#social-interaction*, *#individuality*, *#events*, *#local-news*
