@@ -1,4 +1,4 @@
-﻿# Fantastic4 - Project *Newzy - News near YOU!*
+﻿# Fantastic4 - *Newzy - News near YOU!*
 
 ## Introduction
 Nowadays we are able to access national and international news quickly and easy, however statistics show that people who read news 
@@ -35,7 +35,7 @@ Who will lead the team and manage the project;
 As we decided on our first group meeting, Dan Lee will be the team leader and manage the project we are going to build throughout the semester. 
 
 who is responsible for logistics e.g. equipment, meetings, transport, etc;
-NAME[FIXME] is in charge of logistics for example in purchasing and keeping equipments, organising meetings and recording minutes.
+Dan Lee is in charge of logistics for example in purchasing and keeping equipments, organising meetings and recording minutes.
 
 Who fills key roles, e.g. back end, front end, content, design;
 * Back end - Patrick Bartler 
@@ -43,7 +43,7 @@ Who fills key roles, e.g. back end, front end, content, design;
 * Design - Fatimah Almathami 
 
 How will decisions be made;
-Decisions are to be made by all team members’ consent that we all agree to the decision.  By achieving the team consent, we will work on pros and cons for all decisions and figure out  whether the decision is going to be positive for our project.  When consent across the whole team is not the case, a private vote is getting involved and we will make the decision according to the majority of the vote result.  In other case, if the vote fails such as we have the even vote result, the team leader will make the final decision for the team.  Team members must support the decisions made by the decision making processes rightfully.  
+Decisions are to be made by all team members’ consent that we all agree to the decision. By achieving the team consent, we will work on pros and cons for all decisions and figure out  whether the decision is going to be positive for our project.  When consent across the whole team is not the case, a private vote is getting involved and we will make the decision according to the majority of the vote result.  In other case, if the vote fails such as we have the even vote result, the team leader will make the final decision for the team.  Team members must support the decisions made by the decision making processes rightfully.  
 
 How will the team handle poor performance and resolve conflicts.
 When a team member has poor performance committing the work divided or assigned, and other team members recognised,  we will manage to handle the poor performance in three steps: Identify the problem, confront poor performance and redirect the behaviour to improve performance.  
@@ -88,7 +88,8 @@ Identify the key tasks that need to be completed and when. Identify:
 - Resources - equipment or other tools/people you might need.
 
 Our key tasks of the project are Requirements Gathering and Analysis, Design, Development, Testing, Final Changes and Documentation/Presentation.
-Each phase we have key deliverables depending on the week (see Milestones). We have 4 major milestones during our project in week 8, week 10, week 12 and week 13. In between the different milestones, we have different tasks to work on. The resources we need are listed in the table below.
+Each phase we have key deliverables depending on the week (see Milestones). We have 4 major milestones during our project in week 8, week 10, week 12 and week 13. In between the different milestones, we have different tasks to work on. 
+In order to keep track of the project progress, the team leader will track the improvements. The resources we need are listed in the table below.
 
 ### Milestones
 
