@@ -38,9 +38,10 @@ who is responsible for logistics e.g. equipment, meetings, transport, etc;
 Dan Lee is in charge of logistics for example in purchasing and keeping equipments, organising meetings and recording minutes.
 
 Who fills key roles, e.g. back end, front end, content, design;
-* Back end - Patrick Bartler 
-* Front end - Fan Feng
+* Back end - Patrick Bartler, Dan Lee
+* Front end - Fan Feng, Dan Lee
 * Design - Fatimah Almathami 
+* Content - every group member
 
 How will decisions be made;
 Decisions are to be made by all team members’ consent that we all agree to the decision. By achieving the team consent, we will work on pros and cons for all decisions and figure out  whether the decision is going to be positive for our project.  When consent across the whole team is not the case, a private vote is getting involved and we will make the decision according to the majority of the vote result.  In other case, if the vote fails such as we have the even vote result, the team leader will make the final decision for the team.  Team members must support the decisions made by the decision making processes rightfully.  
@@ -97,25 +98,19 @@ In order to keep track of the project progress, the team leader will track the i
     <img src="art/milestones1.png" alt="Newzy Milestones"/>
 </p>
 
-Project Phase  | Deliverables
-------------- | -------------
-Requirements Gathering and Analysis | Every group member is on the same page, requirements such as tools are documented, work will be devided
-Design  | First paper designs, interface mockup
-Development | Basic Android application including API's, Designs, first draft of the prototype, iterations of the prototype
-Testing | Feedback from users, therefore a set of users is required
-Final Changes | completed user testing
-Presentation/Documentation | Fully developed prototype including feedback of the users, presentation, promotional video
+### Deliverables & Resources
 
-### Resources
+Project Phase  | Deliverables  | Resources
+------------- | ------------- | -------------
+Requirements Gathering and Analysis | requirements such as tools are documented, every group member is on the same page, work will be devided | Computer, choice of tools and APIs, installation of the tools, group meetings to be on the same page, documentation, screenshots and/or prototypes
+Design  | First paper designs, interface mockup | Computer, room for meetings, design prototypes, design software, design requirements, access to pictures, design screenshots, documentation 
+Development | Basic Android application including API's, Designs, first draft of the prototype, iterations of the prototype | Computer, room for meetings, installed tools, API's, costumer to test the product and iterate, webserver, smartphone, documentation 
+Testing | Feedback from users, therefore a set of users is required  | Computer, room for meetings, costumer to test the product, online survey 
+Final Changes | completed user testing | Computer, installed tools, API's, different designs
+Presentation/Documentation | Fully developed prototype including feedback of the users, presentation, promotional video | PowerPoint presentation, clicker, room to practice the presentation, printer
 
-Project Phase  | Resources
-------------- | -------------
-Requirements Gathering and Analysis  | Computer, choice of tools and APIs, installation of the tools, group meetings to be on the same page, documentation, screenshots and/or prototypes
-Design 	      | Computer, room for meetings, design prototypes, design software, design requirements, access to pictures, design screenshots, documentation
-Development   | Computer, room for meetings, installed tools, API's, costumer to test the product and iterate, webserver, smartphone, documentation 
-Testing	      | Computer, room for meetings, costumer to test the product, online survey 
-Final changes | Computer, installed tools, API's, different designs
-Presentation/Documentation | PowerPoint presentation, clicker, room to practice the presentation, printer
+
+
 
 ## Tags
 
