@@ -1,11 +1,11 @@
 ﻿# Fantastic4 - *Newzy - News near YOU!*
 
 ## Introduction
-<div style="float: right">
+<div style="float: center">
   <img src="art/Newzy_logo.jpg" alt="Newzy Logo" width="150" height="150"/>
 </div>
 
-Engagement and relevancy are two of the biggest **issues** with news today. The emergence of social media has meant that audiences are adopting more news networks and people’s social activity is becoming increasingly fragmented – as a result, engagement of posts over Facebook and Twitter has decreased by 50.7% over the past two years.
+*Engagement* and *relevancy* are two of the biggest **issues** with news today. The emergence of social media has meant that audiences are adopting more news networks and people’s social activity is becoming increasingly fragmented – as a result, engagement of posts over Facebook and Twitter has decreased by 50.7% over the past two years.
 Our team of four has decided to undertake a project which would **address these two problems**. Our team will be developing a smartphone application that explores the idea that news and events are always relevant to a person’s life. 
 
 
