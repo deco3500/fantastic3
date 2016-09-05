@@ -1,4 +1,4 @@
-﻿# Fantastic4
+﻿# Fantastic4 - Project Newzy
 
 ## Introduction
 Nowadays we are able to access national and international news quickly and easy, however statistics show that people who read news 
@@ -87,6 +87,9 @@ Identify the key tasks that need to be completed and when. Identify:
 - Key deliverables for each phase (Milestones) ;
 - Resources - equipment or other tools/people you might need.
 
+Our key tasks of the project are Requirements Gathering and Analysis, Design, Development, Testing, Final Changes and Documentation/Presentation.
+Each phase we have key deliverables depending on the week (see Milestones). We have 4 major milestones during our project in week 8, week 10, week 12 and week 13. In between the different milestones, we have different tasks to work on. The resources we need are listed in the table below.
+
 ### Milestones
 
 <p align="center">
@@ -98,11 +101,11 @@ Identify the key tasks that need to be completed and when. Identify:
 Project Phase  | Resources
 ------------- | -------------
 Requirements Gathering and Analysis  | Computer, choice of tools and APIs, installation of the tools, group meetings to be on the same page, documentation, screenshots and/or prototypes
-Design Phase  | Computer, room for meetings, design prototypes, design software, design requirements, access to pictures, design screenshots, documentation
+Design 	      | Computer, room for meetings, design prototypes, design software, design requirements, access to pictures, design screenshots, documentation
 Development   | Computer, room for meetings, installed tools, API's, costumer to test the product and iterate, webserver, smartphone, documentation 
 Testing	      | Computer, room for meetings, costumer to test the product, survey
 Final changes | Computer, installed tools, API's, different designs
-Presentation/Documentation | PowerPoint presentation, clicker, room to practice the presentation, 
+Presentation/Documentation | PowerPoint presentation, clicker, room to practice the presentation, printer
 
 ## Tags
 Tag your proposed idea with 5 key concepts from social and mobile lectures (e.g.
