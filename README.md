@@ -5,15 +5,19 @@
   <img src="art/Newzy_logo.jpg" alt="Newzy Logo" width="150" height="150"/>
 </div>
 
-Engagement and relevancy are two of the biggest issues with news today. The emergence of social media has meant that audiences are adopting more news networks and people’s social activity is becoming increasingly fragmented – as a result, engagement of posts over Facebook and Twitter has decreased by 50.7% over the past two years.
-Our team of four has decided to undertake a project which would address these two problems. Our team will be developing a smartphone application that explores the idea that news and events are always relevant to a person’s life. 
-
+Engagement and relevancy are two of the biggest **issues** with news today. The emergence of social media has meant that audiences are adopting more news networks and people’s social activity is becoming increasingly fragmented – as a result, engagement of posts over Facebook and Twitter has decreased by 50.7% over the past two years.
+Our team of four has decided to undertake a project which would **address these two problems**. Our team will be developing a smartphone application that explores the idea that news and events are always relevant to a person’s life. 
 
 
 ## Concept
-Newzy is a smartphone application that personalises event invitations to the context of a person’s life. The app would gain information about a person’s smartphone usage information and use it to suggest public events for the user to attend – after the development of this stage of the prototype, we would also like to explore how other forms of news can be delivered to a user based on the context activities.
+**Newzy** is a smartphone application that **_personalises_** event invitations to the **context of a person’s life**. The app would gain information about a person’s smartphone usage information and use it to suggest public events for the user to attend – after the development of this stage of the prototype, we would also like to explore how other forms of news can be delivered to a user based on the context activities.
 The application would use several APIs including Google Awareness, CMMotionActivity and HealthKit to recognise information such as a person’s location, location type, nearby beacons, current activity, etc. The app would then compare that information against a database of events and suggest public events that are relevant to their activity history. For example, if the app recognised that a person has gone for a 10km run recently, the app would invite the user to an upcoming 10km fun run. The app would integrate with Facebook so that users can ‘click attending’ and invite their friends to attend. 
-The app would promote users to be more social and outdoorsy, and to leave the comfort of their routine.
+
+<p align="center">
+    <img src="art/context.png" alt="Newzy Milestones"/>
+</p>
+
+While personal assistant applications such as Google Now and Siri use similar activity information to assist a user through a range of activities such as estimating driving times to work and home, providing weather updates, generating activity summaries (walking/cycling),etc. Our application would be **unique** and **innovative** in the fact that it generates a database of public events from a number of different sources (e.g. city council events, university events, sponsored events, etc.), makes suggestions based on recognised activities and integrates with Facebook to allow users to invite friends to attend – this functionality does not exist in any personal assistant application or other similar form. We believe that the app would promote users to be more social and outdoorsy, and promote people to leave the comfort of their routine. 
 
 ## Team
 
