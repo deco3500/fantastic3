@@ -88,10 +88,14 @@ angular.module('app.routes', [])
     }
   })
 
-  .state('gym', {
+  .state('menu.gym', {
     url: '/page9',
-    templateUrl: 'templates/gym.html',
-    controller: 'gymCtrl'
+    views: {
+      'side-menu21': {
+        templateUrl: 'templates/gym.html',
+        controller: 'gymCtrl'
+      }
+    }
   })
 
 $urlRouterProvider.otherwise('/page4')
