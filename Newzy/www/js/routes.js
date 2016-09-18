@@ -78,7 +78,23 @@ angular.module('app.routes', [])
     }
   })
 
-$urlRouterProvider.otherwise('/side-menu21/page1')
+  .state('menu.uQSwimming', {
+    url: '/page8',
+    views: {
+      'side-menu21': {
+        templateUrl: 'templates/uQSwimming.html',
+        controller: 'uQSwimmingCtrl'
+      }
+    }
+  })
+
+  .state('gym', {
+    url: '/page9',
+    templateUrl: 'templates/gym.html',
+    controller: 'gymCtrl'
+  })
+
+$urlRouterProvider.otherwise('/page4')
 
   
 
