@@ -17,6 +17,12 @@
             </ion-list>
             <a ui-sref="menu.home" id="login-button1" class="button button-dark  button-block">Log in</a>
             <a ui-sref="signup" id="login-button2" class="button button-positive  button-block button-clear">Or create an account</a>
+
         </form>
+
+        <p align="center">
+            <fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
+            </fb:login-button>
+        </p>
     </ion-content>
 </ion-view>

@@ -1,5 +1,7 @@
 <ion-view title="Home" id="page1">
     <ion-content padding="true" class="has-header">
+        <p>Welcome <div id="name"> </div> !</p>
+
         <div>
             <img src="img/UQ-Map.png" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
         </div>
@@ -29,3 +31,7 @@
         </ion-list>
     </ion-content>
 </ion-view>
+
+<script>
+    document.getElementById('name').innerHTML = "namepady"
+</script>

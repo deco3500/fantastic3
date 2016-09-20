@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -63,7 +63,184 @@
             <ion-nav-back-button></ion-nav-back-button>
         </ion-nav-bar>
         <ion-nav-view></ion-nav-view>
+        
     </div>
 </div>
-  </body>
+     
+          <script src="cordova.js"></script>
+
+          <script src="openfb.js"></script>
+
+          <script src="jquery.js"></script>
+
+          <script>
+
+             
+
+              // This is called with the results from from FB.getLoginStatus().
+              function statusChangeCallback(response) {
+                  console.log('statusChangeCallback');
+                  console.log(response);
+                  // The response object is returned with a status field that lets the
+                  // app know the current login status of the person.
+                  // Full docs on the response object can be found in the documentation
+                  // for FB.getLoginStatus().
+                  if (response.status === 'connected') {
+                      // Logged into your app and Facebook.
+                      testAPI();
+                      // getFriends();
+                      getEvent();
+
+             
+                  } else if (response.status === 'not_authorized') {
+                      // The person is logged into Facebook, but not your app.
+                      document.getElementById('status').innerHTML = 'Please log ' +
+                        'into this app.';
+                  } else {
+                      // The person is not logged into Facebook, so we're not sure if
+                      // they are logged into this app or not.
+                      document.getElementById('status').innerHTML = 'Please log ' +
+                        'into Facebook.';
+                  }
+              }
+
+              // This function is called when someone finishes with the Login
+              // Button.  See the onlogin handler attached to it in the sample
+              // code below.
+              function checkLoginState() {
+                  FB.getLoginStatus(function (response) {
+                      statusChangeCallback(response);
+                  });
+              }
+
+              window.fbAsyncInit = function () {
+                  FB.init({
+                      appId: '322002224819159',
+                      cookie: false,  // enable cookies to allow the server to access
+                      // the session
+                      xfbml: true,  // parse social plugins on this page
+                      version: 'v2.7' // use graph api version 2.5
+                  });
+
+                  // Now that we've initialized the JavaScript SDK, we call
+                  // FB.getLoginStatus().  This function gets the state of the
+                  // person visiting this page and can return one of three states to
+                  // the callback you provide.  They can be:
+                  //
+                  // 1. Logged into your app ('connected')
+                  // 2. Logged into Facebook, but not your app ('not_authorized')
+                  // 3. Not logged into Facebook and can't tell if they are logged into
+                  //    your app or not.
+                  //
+                  // These three cases are handled in the callback function.
+
+                  FB.getLoginStatus(function (response) {
+                      statusChangeCallback(response);
+                  });
+
+              };
+
+              // Load the SDK asynchronously
+              (function (d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return;
+                  js = d.createElement(s); js.id = id;
+                  js.src = "//connect.facebook.net/en_US/sdk.js";
+                  fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));
+
+              // Here we run a very simple test of the Graph API after login is
+              // successful.  See statusChangeCallback() for when this call is made.
+              function testAPI() {
+                  console.log('Welcome!  testAPI.... ');
+                  FB.api('/me', function (response) {
+                      console.log('Successful login for: ' + response.name);
+                      document.getElementById('status').innerHTML =
+                        'Thanks for logging in, ' + response.name + '!';
+                  });
+              }
+
+              function getFriends() {
+                  console.log('Welcome!  getFriends.... ');
+                  FB.api({ path: '/me/friends', success: successHandler, error: errorHandler });
+              }
+
+              
+              function getInfo() {
+                  FB.api('/me', function (response) {
+                      console.log(JSON.stringify(response));
+                      document.getElementById("userName").innerHTML = response.name;
+                      document.getElementById("userPic").src = 'http://graph.facebook.com/' + response.id + '/picture?type=small';
+                  });
+              }
+
+
+              function logout() {
+                  FB.logout(
+                          function () {
+                              alert('Logout successful');
+                          },
+                          errorHandler);
+              }
+
+              function errorHandler(error) {
+                  alert(error.message);
+              }
+
+              function getEvent() {
+                  console.log('getEvent');
+                  FB.api(
+                  '/search',
+                  'GET',
+                  { "q": "*", "type": "event", "center": "-27.4997093,152.9869222", "distance": "1000", "limit": "10" },
+                  //, "sort": "time"
+                  function (response) {
+                                       
+                      var event_list = [];
+
+                      //console.log('response ' + JSON.stringify(response));
+                      //console.log(response);
+                      console.log(response.data.length);
+
+                                            
+                      for (var count = 0; count < response.data.length; count++) {
+                          var events = [];
+                          console.log(count);
+
+                          console.log('Name: ' + response.data[count].name);
+                          console.log('id: ' + response.data[count].id);
+
+                         // console.log('start_time ' + response.data[count].start_time);
+
+                              
+                         //console.log('place ' + response.data[count].place.name);
+                         //console.log('lat ' + response.data[count].place.location.latitude);
+                         //console.log('long ' + response.data[count].place.location.longitude);
+
+
+                          events[count] = response.data[count].name;
+                          events[count] = response.data[count].id;
+                          //events[count] = response.data[count].start_time;
+                          //events[count] = response.data[count].place.name;
+                          //events[count] = response.data[count].place.latitude;
+                          //events[count] = response.data[count].place.longitude;
+
+                          event_list.push(events);
+
+                      }
+      
+                  }
+                );
+
+              }
+
+
+
+
+          </script>
+
+
+
+
+</body>
 </html>
