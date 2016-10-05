@@ -14,7 +14,7 @@ define([
     'eventService',
     function ($scope, $stateParams, $state, $timeout, $ionicHistory, eventService) {
       var first = true;
-	  $scope.apiKey = 'AIzaSyAl9uOLSgbjwfzQsuZkyBX1ZgNbWfobAm0';
+	  $scope.apiKey = 'AIzaSyBaFt6qyKEy8ZBPjA-QzA3csm83XomjCmo';
       $scope.limit = 10;
       $scope.show = {
         list: true
