@@ -8,13 +8,13 @@ define([
       this.events = [{
         id: 1,
         name: 'Special Event',
-        city: 'Grevenbroich',
-        district: 'Düsseldorf',
-        street: 'Kurt-Schumacher-Str',
+        city: 'Brisbane',
+        district: 'Saint Lucia',
+        street: 'Carmody Rd',
         number: '17',
-        zip: '41515',
-        lat: 51.090209,
-        lng: 6.585863,
+        zip: '4072',
+        lat: -27.498589,
+        lng: 153.0099093,
         dates: [
           'Monday: 9:00 AM',
           'Sunday: 9:00 AM'
@@ -27,17 +27,17 @@ define([
       }, {
         id: 2,
         name: 'Special Event',
-        city: 'Straußfurt',
-        district: 'Erfurt',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
+        city: 'Brisbane',
+        district: 'Milton',
+        street: 'Park Rd',
+        number: '9',
+        zip: '4102',
         dates: [
           'Monday: 9:00 AM',
           'Sunday: 9:00 AM'
         ],
-        lat: 51.163893,
-        lng: 10.986114,
+        lat: -27.493689,
+        lng: 153.0286202,
         wheelchairLift: true,
         contact: {
           tel: '1234/56789',
@@ -47,17 +47,17 @@ define([
       }, {
         id: 3,
         name: 'Special Event',
-        city: 'Gebesee',
-        district: 'Erfurt',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
+        city: 'Brisbane',
+        district: 'Chermside',
+        street: 'Gympie Rd',
+        number: '5',
+        zip: '4032',
         dates: [
           'Monday: 9:00 AM',
           'Sunday: 9:00 AM'
         ],
-        lat: 51.114004,
-        lng: 10.933228,
+        lat: -27.3847542,
+        lng: 153.0301993,
         wheelchair: true,
         contact: {
           tel: '1234/56789',
@@ -67,16 +67,17 @@ define([
       }, {
         id: 4,
         name: 'Special Event',
-        city: 'Grevenbroich',
-        district: 'Düsseldorf',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
+        city: 'Brisbane',
+        district: 'Ascot',
+        street: 'Hampden',
+        number: '75',
+        zip: '4007',
         dates: [
           'Monday: 9:00 AM',
           'Sunday: 9:00 AM'
         ],
-        satTrans: true,
+        lat: -27.4260903,
+        lng: 153.0736524,
         contact: {
           tel: '1234/56789',
           email: 'test@example.com'
@@ -85,17 +86,17 @@ define([
       }, {
         id: 5,
         name: 'Special Event',
-        city: 'Schwabhausen',
-        district: 'Erfurt',
-        street: 'Frühlingsstraße',
-        number: '17',
-        zip: '41515',
+        city: 'Brisbane',
+        district: 'Mitchelton',
+        street: 'Blackwood',
+        number: '48',
+        zip: '4053',
         dates: [
           'Monday: 10:00 AM',
           'Sunday: 9:30 AM'
         ],
-        lat: 48.302842,
-        lng: 11.352900,
+        lat: -27.411194,
+        lng: 152.9720754,
         satTrans: true,
         wheelchair: true,
         wheelchairLift: true,
@@ -107,17 +108,17 @@ define([
       }, {
         id: 6,
         name: 'Science Event',
-        city: 'Hachelbich',
-        district: 'Kyffhäuserland',
-        street: 'Oberdorf',
-        number: '10',
-        zip: '99707',
+        city: 'Brisbane',
+        district: 'Bowen Hills',
+        street: 'Folkestone',
+        number: '34',
+        zip: '4006',
         dates: [
           'Monday: 10:00 AM',
           'Sunday: 9:30 AM'
         ],
-        lat: 51.344143,
-        lng: 10.966972,
+        lat: -27.4434314,
+        lng: 153.037957,
         satTrans: true,
         wheelchair: true,
         wheelchairLift: true,
@@ -129,17 +130,17 @@ define([
       }, {
         id: 7,
         name: 'Science Event',
-        city: 'Berka',
-        district: 'Sondershausen',
-        street: 'Wittchental',
-        number: '10',
-        zip: '99706',
+        city: 'Brisbane',
+        district: 'South Brisbane',
+        street: 'Stanley',
+        number: '1',
+        zip: '4101',
         dates: [
           'Monday: 10:00 AM',
           'Sunday: 9:30 AM'
         ],
-        lat: 50.941998,
-        lng: 10.073971,
+        lat: -27.4745345,
+        lng: 153.0169488,
         satTrans: true,
         wheelchair: true,
         wheelchairLift: true,
@@ -151,17 +152,17 @@ define([
       }, {
         id: 8,
         name: 'Science Event',
-        city: 'Roßla',
-        district: 'Sangerhausen',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
+        city: 'Brisbane',
+        district: 'Woolloongabba',
+        street: 'Vulture',
+        number: '1',
+        zip: '4102',
         dates: [
           'Monday: 9:00 AM',
           'Sunday: 9:00 AM'
         ],
-        lat: 51.463053,
-        lng: 11.069677,
+        lat: -27.4858328,
+        lng: 153.0358966,
         satTrans: true,
         contact: {
           tel: '1234/56789',
@@ -171,17 +172,17 @@ define([
       }, {
         id: 9,
         name: 'Science Event',
-        city: 'Kelbra',
-        district: 'Sangerhausen',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
+        city: 'Brisbane',
+        district: 'Wooloongabba',
+        street: 'Ipswich',
+        number: '199',
+        zip: '4102',
         dates: [
           'Monday: 9:00 AM',
           'Sunday: 9:00 AM'
         ],
-        lat: 51.434340,
-        lng: 11.101727,
+        lat: -27.4989502,
+        lng: 153.0312467,
         satTrans: true,
         contact: {
           tel: '1234/56789',
@@ -191,439 +192,17 @@ define([
       }, {
         id: 10,
         name: 'Science Event',
-        city: 'Tilleda',
-        district: 'Sangerhausen',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
+        city: 'Brisbane',
+        district: 'Sunnybank',
+        street: 'McCullough',
+        number: '1',
+        zip: '4109',
         dates: [
           'Monday: 9:00 AM',
           'Sunday: 9:00 AM'
         ],
-        lat: 51.418927,
-        lng: 11.143613,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 11,
-        name: 'Sport Event',
-        city: 'Neuss',
-        district: 'Düsseldorf',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 51.204197,
-        lng: 6.687951,
-        wheelchair: true,
-        wheelchairLift: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 12,
-        name: 'Sport Event',
-        city: 'Krefeld',
-        district: 'Düsseldorf',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 51.333347,
-        lng: 6.584587,
-        wheelchair: true,
-        wheelchairLift: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 13,
-        name: 'Sport Event',
-        city: 'Kempen',
-        district: 'Düsseldorf',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 51.361224,
-        lng: 6.428719,
-        wheelchair: true,
-        wheelchairLift: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 14,
-        name: 'Sport Event',
-        city: 'Mühlheim an der Ruhr',
-        district: 'Duisburg',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 51.421209,
-        lng: 6.882591,
-        wheelchair: true,
-        wheelchairLift: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 15,
-        name: 'Sport Event',
-        city: 'Kreuzberg',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.497492,
-        lng: 13.395252,
-        wheelchair: true,
-        wheelchairLift: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 16,
-        name: 'Sport Event',
-        city: 'Charlottenburg',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.515881,
-        lng: 13.295689,
-        wheelchair: true,
-        wheelchairLift: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 17,
-        name: 'Sport Event',
-        city: 'Schöneberg',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.480977,
-        lng: 13.369846,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 18,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 19,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 20,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 21,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 22,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 23,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 24,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 25,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 26,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 27,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 28,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 29,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
-        satTrans: true,
-        contact: {
-          tel: '1234/56789',
-          email: 'test@example.com'
-        },
-        website: 'http://example.com'
-      }, {
-        id: 30,
-        name: 'Sport Event',
-        city: 'Marzahn',
-        district: 'Berlin',
-        street: 'Kurt-Schumacher-Str',
-        number: '17',
-        zip: '41515',
-        dates: [
-          'Monday: 9:00 AM',
-          'Sunday: 9:00 AM'
-        ],
-        lat: 52.549506,
-        lng: 13.555241,
-        wheelchair: true,
+        lat: -27.5902569,
+        lng: 153.0424034,
         satTrans: true,
         contact: {
           tel: '1234/56789',
