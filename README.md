@@ -1,5 +1,11 @@
 ﻿# Fantastic4 - *Newzy - News near YOU!*
 
+## Final Design
+Final Design Documentation here - https://docs.google.com/document/d/17gKfTapp9THlg9amVj91Lj_uebqJFpn640fZsANz-BA/edit
+
+
+# Project Proposal ( 05/09/2016)
+
 ## Introduction
 <div style="float: center">
   <img src="art/Newzy_logo.jpg" alt="Newzy Logo" width="150" height="150"/>
